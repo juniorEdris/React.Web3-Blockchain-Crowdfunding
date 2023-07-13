@@ -1,37 +1,23 @@
-## Getting Started
+## React/Vite Application for Web3-thirdweb-blockchain-network
 
-Create a project using this example:
+This application repository contains React library codes for connecting to the blockchain, pairing with MetaMask, interacting with smart contracts, sending Ethereum through the blockchain network, writing Solidity code, and, most importantly, the ability to create, view, and donate to crowdfunding campaigns directly through the blockchain.
 
-```bash
-npx thirdweb create --template vite-javascript-starter
-```
+Solidity Repository: [click-here](https://github.com/juniorEdris/thirdweb-blockchain-contracts)
 
-You can start editing the page by modifying `src/main.jsx`. The page auto-updates as you edit the file.
-
-On `src/index.jsx`, you'll find our `ThirdwebProvider` wrapping your app,
-this is necessary for our [hooks](https://portal.thirdweb.com/react) and
-[UI Components](https://portal.thirdweb.com/ui-components) to work.
-
-### Deploy to IPFS
-
-Deploy a copy of your application to IPFS using the following command:
+or
 
 ```bash
-yarn deploy
+    https://github.com/juniorEdris/thirdweb-blockchain-contracts
 ```
 
-## Learn More
+## Deployed Version
 
-To learn more about thirdweb, Vite and React, take a look at the following resources:
+[deployed version](https://react-web3-blockchain-crowdfunding.vercel.app/)
 
-- [thirdweb React Documentation](https://docs.thirdweb.com/react) - learn about our React SDK.
-- [thirdweb JavaScript Documentation](https://docs.thirdweb.com/react) - learn about our JavaScript/TypeScript SDK.
-- [thirdweb Portal](https://docs.thirdweb.com/react) - check our guides and development resources.
-- [Vite Documentation](https://vitejs.dev/guide/) - learn about Vite features.
-- [React documentation](https://reactjs.org/) - learn React.
+## Developer Info
 
-You can check out [the thirdweb GitHub organization](https://github.com/thirdweb-dev) - your feedback and contributions are welcome!
+**name: Md Imthiaz Chy Ragib**
 
-## Join our Discord!
+**email: mohammedimthiaz17@gmail.com**
 
-For any questions, suggestions, join our discord at [https://discord.gg/thirdweb](https://discord.gg/thirdweb).
+**linkedin: [linkedin.eftekar-raghib/](https://www.linkedin.com/in/eftekar-raghib/)**
